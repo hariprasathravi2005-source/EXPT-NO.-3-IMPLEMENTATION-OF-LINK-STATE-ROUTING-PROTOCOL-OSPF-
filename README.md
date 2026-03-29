@@ -71,3 +71,4 @@ Router1# write memory
 # RESULT
 Thus the computers in multiple networks using Open Shortest Path First Routing Protocol is connected and the connectivity between the computers is verified.
 
+ 
